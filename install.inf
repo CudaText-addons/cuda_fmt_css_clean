@@ -1,0 +1,12 @@
+[info]
+title=Formatter for CSS: Clean
+desc=
+type=cudatext-plugin
+subdir=cuda_fmt_css_clean
+homepage=https://github.com/CudaText-addons/cuda_fmt_css_clean
+
+[fmt1]
+caption=CSS Clean
+method=do_format
+lexers=CSS
+config=cuda_fmt_css_clean.json
